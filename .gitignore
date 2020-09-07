@@ -2,5 +2,5 @@
 __*
 !.git
 !.gitignore
-/pretrained
-/log
+/pretrained/*
+/log/*
