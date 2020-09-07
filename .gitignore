@@ -3,3 +3,4 @@ __*
 !.git
 !.gitignore
 /pretrained
+/log
