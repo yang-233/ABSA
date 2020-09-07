@@ -3,4 +3,6 @@ __*
 !.git
 !.gitignore
 /pretrained/*
+!/pretrained/
 /log/*
+!/log/
