@@ -2,7 +2,5 @@
 __*
 !.git
 !.gitignore
-/pretrained/*
-!/pretrained/glove6B300d
 /log/*
 !/log/
